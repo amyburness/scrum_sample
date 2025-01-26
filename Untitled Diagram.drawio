@@ -1,12 +1,157 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.8">
-  <diagram name="Page-1" id="dEigg_iJyHm0EdJ_xlxr">
-    <mxGraphModel dx="880" dy="434" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.8" pages="3">
+  <diagram id="VvJfHRqG7jUd1wkhfx58" name="Plan for PM Introduction">
+    <mxGraphModel dx="1435" dy="511" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-1" value="Phase 1: Assessment and Preparation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-208" y="11" width="235" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MO8NeUGf4F_1b8Himgnf-2" target="MO8NeUGf4F_1b8Himgnf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MO8NeUGf4F_1b8Himgnf-2" target="MO8NeUGf4F_1b8Himgnf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-2" value="Stock2shop context" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-208" y="59" width="140" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MO8NeUGf4F_1b8Himgnf-3" target="MO8NeUGf4F_1b8Himgnf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-3" value="&lt;br&gt;Assess the current workflow, pain points, and culture&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-23" y="60.5" width="202" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MO8NeUGf4F_1b8Himgnf-5" target="MO8NeUGf4F_1b8Himgnf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MO8NeUGf4F_1b8Himgnf-5" target="MO8NeUGf4F_1b8Himgnf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MO8NeUGf4F_1b8Himgnf-5" target="MO8NeUGf4F_1b8Himgnf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-5" value="&lt;div&gt;Assess the best PM approach for Stock2Shop projects&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-23" y="102" width="202" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-6" value="&lt;div&gt;Pure scrum&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278.5" y="94" width="154" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-7" value="&lt;div&gt;Kanban&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278.5" y="124" width="155" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-8" value="&lt;div&gt;Scrumban&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278.5" y="154" width="155" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-13" value="&lt;div&gt;Meet teams and discuss current approach what works, doesn&#39;t work etc.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="60.5" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-15" value="Month 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-341" y="11" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-16" value="Week 1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="MO8NeUGf4F_1b8Himgnf-15">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-283" y="186" as="sourcePoint" />
+            <mxPoint x="-261" y="81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MO8NeUGf4F_1b8Himgnf-20" value="Phase 2: Identify key stakeholders and create fit for purpose PM approach" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-208" y="186" width="413" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-1" value="Week 2&amp;amp;3" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-286" y="391" as="sourcePoint" />
+            <mxPoint x="-282" y="189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-2" value="Week 4" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-288" y="536" as="sourcePoint" />
+            <mxPoint x="-286" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yoJ4Ocre2Gf0fh3mHV2l-4" target="yoJ4Ocre2Gf0fh3mHV2l-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yoJ4Ocre2Gf0fh3mHV2l-4" target="yoJ4Ocre2Gf0fh3mHV2l-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-4" value="Generate plan for S2S" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-208" y="245" width="140" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="x2V_w7sYpndDouT5KuVi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="yoJ4Ocre2Gf0fh3mHV2l-5" target="yoJ4Ocre2Gf0fh3mHV2l-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-5" value="Review plan to Management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-208" y="320" width="140" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-6" value="&lt;div&gt;Generate GitHub templates for the practical management each project type&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="251" width="391" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="x2V_w7sYpndDouT5KuVi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yoJ4Ocre2Gf0fh3mHV2l-8" target="yoJ4Ocre2Gf0fh3mHV2l-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-8" value="Update and feedback loop" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-208" y="351" width="140" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-9" value="Output is a project planning SOP report with practical usable templates linked&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-24" y="354" width="388" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-11" value="A meeting present, review and improve&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-25.5" y="323" width="386" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yoJ4Ocre2Gf0fh3mHV2l-12" target="yoJ4Ocre2Gf0fh3mHV2l-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yoJ4Ocre2Gf0fh3mHV2l-12" target="yoJ4Ocre2Gf0fh3mHV2l-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-12" value="&lt;div&gt;PM SOP report for S2S incl: teams, project types, frameworks of meetings and timings and client interactions and&amp;nbsp; etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="219" width="393" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-13" value="&lt;div&gt;New Software product&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="201" width="154" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yoJ4Ocre2Gf0fh3mHV2l-14" value="Support&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="232" width="154" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="x2V_w7sYpndDouT5KuVi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2V_w7sYpndDouT5KuVi-2" target="x2V_w7sYpndDouT5KuVi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2V_w7sYpndDouT5KuVi-2" value="Provide initial trainings with full team on the new PM approach" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-208" y="430" width="140" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="x2V_w7sYpndDouT5KuVi-6" value="Get team buy-in and initiate the agreed on approach&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-26.5" y="446.5" width="386" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Scrum team" id="dEigg_iJyHm0EdJ_xlxr">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qh5V6HkCDc0wFQ6rwyL2-2" value="FFP Scrum Team" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="9" y="-73" width="105" height="23" as="geometry" />
+        </mxCell>
         <mxCell id="Qh5V6HkCDc0wFQ6rwyL2-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="71" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Qh5V6HkCDc0wFQ6rwyL2-3" value="Developers" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Black_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="21.5" y="-29" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qh5V6HkCDc0wFQ6rwyL2-4" value="Scrum Master/Product Owner" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="21.5" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_MoB1dDwsAvnVe7Em1BT" name="Page-3">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
